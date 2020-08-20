@@ -8,14 +8,14 @@ body {
   width: 100%;
   height: 80px;
 
-  background-color: aqua;
+  background-color: #7efff5;
 }
 
 .main .main__col1 {
   width: 100%;
   height: 60vh;
 
-  background-color: aquamarine;
+  background-color: #67e6dc;
 }
 
 .bottom {
@@ -26,14 +26,14 @@ body {
   width: 50%;
   height: 250px;
 
-  background-color: coral;
+  background-color: #18dcff;
 }
 
 .bottom .bottom__col2 {
   width: 50%;
   height: 150px;
 
-  background-color: cornflowerblue;
+  background-color: #17c0eb;
   display: flex;
   flex-direction: row;
 }
@@ -42,7 +42,7 @@ body {
   width: 50%;
   height: 150px;
 
-  background-color: darkblue;
+  background-color: #25ccf7;
 
   margin-top: 75px;
 }
@@ -51,7 +51,7 @@ body {
   width: 50%;
   height: 150px;
 
-  background-color: darkgoldenrod;
+  background-color: #48dbfb;
 
   margin-top: 75px;
 }
